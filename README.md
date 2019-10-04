@@ -19,3 +19,11 @@
 Beware of these creatures crawling in noodles: 
 
 ![](https://github.com/sbest0128/tfcb-homework01/blob/master/images/casent-0172345_Rhytidoponera-metallica.jpg)
+
+Here is a random table for your pleaure:
+
+|Flavor|Good or Bad?|Rating (1 to 10)|
+|------|------------|----------------|
+|Beef  |Good        |8               |
+|Chicken|Bad        |3               |
+|Spicy Beef|Good    |10              |
